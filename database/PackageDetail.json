@@ -1,0 +1,16 @@
+{
+  "case1-P0": [
+    {
+      "preconditions": {
+      },
+      "comments": "查询套餐详情",
+      "request": {
+        "package_id": 413053405425922
+      },
+      "expect": {
+        "ret": 1,
+        "msg": "success"
+      }
+    }
+  ]
+}
